@@ -169,7 +169,10 @@ async function _getPostsGroupByTags(lang?: Language) {
   const tagMap = new Map<string, Post[]>()
 
   posts.forEach((post: Post) => {
-    post.data.tags?.forEach((tag: string) => {
+    post.data.tags?.forEach((rawTag: string) => {
+      const tag = rawTag.trim()
+      if (!tag)
+        return
       let tagPosts = tagMap.get(tag)
       if (!tagPosts) {
         tagPosts = []

@@ -66,20 +66,10 @@ export interface ThemeConfig {
     }
   }
   seo?: {
-    twitterID?: string
-    verification?: {
-      google?: string
-      bing?: string
-      yandex?: string
-      baidu?: string
-    }
-    googleAnalyticsID?: string
-    umamiAnalyticsID?: string
     folo?: {
       feedID?: string
       userID?: string
     }
-    apiflashKey?: string
   }
   footer: {
     links: {
@@ -90,7 +80,5 @@ export interface ThemeConfig {
   }
   preload?: {
     imageHostURL?: string
-    customGoogleAnalyticsJS?: string
-    customUmamiAnalyticsJS?: string
   }
 }

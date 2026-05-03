@@ -8,12 +8,11 @@ import MarkdownIt from 'markdown-it'
 import { parse } from 'node-html-parser'
 import sanitizeHtml from 'sanitize-html'
 import { base, defaultLocale, themeConfig } from '@/config'
-import { ui } from '@/i18n/ui'
 import { memoize } from '@/utils/cache'
 import { getPostDescription } from '@/utils/description'
 
 const markdownParser = new MarkdownIt()
-const { title, description, i18nTitle, url, author } = themeConfig.site
+const { title, description, url, author } = themeConfig.site
 const { folo } = themeConfig.seo ?? {}
 
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -31,7 +30,11 @@ const imagesGlob = import.meta.glob<{ default: ImageMetadata }>(
  */
 async function _getAbsoluteImageUrl(srcPath: string, baseUrl: string) {
   // Remove relative path prefixes (../ and ./) from image source path
-  const prefixRemoved = srcPath.replace(/^(?:\.\.\/)+|^\.\//, '')
+  let prefixRemoved = srcPath.replace(/^(?:\.\.\/)+|^\.\//, '')
+  // e.g. ../posts/_images/x.jpg from about/ → posts/_images/x.jpg → same folder as posts/_images
+  if (prefixRemoved.startsWith('posts/')) {
+    prefixRemoved = prefixRemoved.slice('posts/'.length)
+  }
   const absolutePath = `/src/content/posts/${prefixRemoved}`
   const imageImporter = imagesGlob[absolutePath]
 
@@ -110,19 +113,18 @@ async function fixRelativeImagePaths(htmlContent: string, baseUrl: string): Prom
  * @returns A Feed instance ready for RSS or Atom output
  */
 export async function generateFeed({ lang }: { lang?: Language } = {}) {
-  const currentUI = ui[lang as keyof typeof ui] ?? ui[defaultLocale as keyof typeof ui] ?? {}
-  const siteURL = lang ? `${url}${base}/${lang}/` : `${url}${base}/`
+  const siteURL = `${url}${base}/`
 
   // Create Feed instance
   const feed = new Feed({
-    title: i18nTitle ? currentUI.title : title,
-    description: i18nTitle ? currentUI.description : description,
+    title,
+    description,
     id: siteURL,
     link: siteURL,
     language: lang ?? themeConfig.global.locale,
     copyright: `Copyright © ${new Date().getFullYear()} ${author}`,
     updated: new Date(),
-    generator: 'Astro-Theme-Retypeset with Feed for Node.js',
+    generator: 'anne muses',
 
     feedLinks: {
       rss: new URL(lang ? `${base}/${lang}/rss.xml` : `${base}/rss.xml`, url).toString(),

@@ -1,3 +1,10 @@
+/* Match page background during View Transitions so layers never fade to browser default white */
+::view-transition-group(root),
+::view-transition-old(root),
+::view-transition-new(root) {
+  background-color: oklch(var(--un-preset-theme-colors-background) / var(--un-preset-theme-colors-background--alpha, 1));
+}
+
 /* View Transition */
 @keyframes reveal {
   from {

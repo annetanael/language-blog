@@ -1,0 +1,37 @@
+---
+import PostList from '@/components/PostList.astro'
+import TagList from '@/components/TagList.astro'
+import { defaultLocale } from '@/config'
+import Layout from '@/layouts/Layout.astro'
+import { getAllTags, getPostsByTag } from '@/utils/content'
+
+export async function getStaticPaths() {
+  const tags = await getAllTags(defaultLocale)
+  return tags.map(tag => ({ params: { tag } }))
+}
+
+const tagParam = Astro.params.tag
+if (tagParam === undefined || tagParam === '') {
+  return Astro.redirect('/404/')
+}
+
+/** Decode segment (e.g. Language%20learning → Language learning) */
+const tag = decodeURIComponent(tagParam.replace(/\+/g, ' '))
+const posts = await getPostsByTag(tag, defaultLocale)
+const allTags = await getAllTags(defaultLocale)
+---
+
+<Layout>
+  <!-- Decorative Line -->
+  <div class="uno-decorative-line" />
+  <!-- Tag List -->
+  <TagList
+    tags={allTags}
+    currentTag={tag}
+  />
+
+  <!-- Posts List -->
+  <PostList
+    posts={posts}
+  />
+</Layout>

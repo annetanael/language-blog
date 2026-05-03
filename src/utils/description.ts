@@ -3,7 +3,7 @@ import type { Language } from '@/i18n/config'
 import MarkdownIt from 'markdown-it'
 import { defaultLocale } from '@/config'
 
-type ExcerptScene = 'list' | 'meta' | 'og' | 'feed'
+type ExcerptScene = 'list' | 'meta' | 'feed'
 
 const markdownParser = new MarkdownIt()
 const excerptLengths: Record<ExcerptScene, { cjk: number, other: number }> = {
@@ -14,10 +14,6 @@ const excerptLengths: Record<ExcerptScene, { cjk: number, other: number }> = {
   meta: {
     cjk: 120,
     other: 240,
-  },
-  og: {
-    cjk: 70,
-    other: 140,
   },
   feed: {
     cjk: 70,
@@ -73,10 +69,7 @@ export function getPostDescription(
   const lang = (post.data.lang || defaultLocale) as Language
 
   if (post.data.description) {
-    // Only truncate for og scene, return full description for other scenes
-    return scene === 'og'
-      ? getExcerpt(post.data.description, lang, scene)
-      : post.data.description
+    return post.data.description
   }
 
   const rawContent = post.body || ''

@@ -1,6 +1,4 @@
 import mdx from '@astrojs/mdx'
-import partytown from '@astrojs/partytown'
-import sitemap from '@astrojs/sitemap'
 import Compress from 'astro-compress'
 import { defineConfig } from 'astro/config'
 import rehypeKatex from 'rehype-katex'
@@ -9,8 +7,7 @@ import rehypeSlug from 'rehype-slug'
 import remarkDirective from 'remark-directive'
 import remarkMath from 'remark-math'
 import UnoCSS from 'unocss/astro'
-import { base, defaultLocale, themeConfig } from './src/config'
-import { langMap } from './src/i18n/config'
+import { base, themeConfig } from './src/config'
 import { rehypeCodeCopyButton } from './src/plugins/rehype-code-copy-button.mjs'
 import { rehypeExternalLinks } from './src/plugins/rehype-external-links.mjs'
 import { rehypeHeadingAnchor } from './src/plugins/rehype-heading-anchor.mjs'
@@ -29,29 +26,14 @@ export default defineConfig({
   site,
   base,
   trailingSlash: 'always', // Not recommended to change
-  prefetch: {
-    prefetchAll: true,
-    defaultStrategy: 'viewport', // hover, tap, viewport, load
-  },
+  // Prefetch + view transitions can race Vite dev stylesheets; full reload is fast enough for a blog.
+  prefetch: false,
   ...imageConfig,
-  i18n: {
-    locales: Object.entries(langMap).map(([path, codes]) => ({
-      path,
-      codes: [...codes] as [string, ...string[]],
-    })),
-    defaultLocale,
-  },
   integrations: [
     UnoCSS({
       injectReset: true,
     }),
     mdx(),
-    partytown({
-      config: {
-        forward: ['dataLayer.push', 'gtag'],
-      },
-    }),
-    sitemap(),
     Compress({
       CSS: true,
       HTML: true,
@@ -104,6 +86,8 @@ export default defineConfig({
     ],
     build: {
       chunkSizeWarningLimit: 600,
+      // Single CSS bundle so view transitions always match the same stylesheet URL (avoids dev FOUC).
+      cssCodeSplit: false,
     },
   },
   devToolbar: {

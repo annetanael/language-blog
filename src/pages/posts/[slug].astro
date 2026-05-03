@@ -1,0 +1,97 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import { getCollection, render } from 'astro:content'
+import Comment from '@/components/Comment/Index.astro'
+import PostDate from '@/components/PostDate.astro'
+import TagList from '@/components/TagList.astro'
+import BackButton from '@/components/Widgets/BackButton.astro'
+import TOC from '@/components/Widgets/TOC.astro'
+import Layout from '@/layouts/Layout.astro'
+import { checkPostSlugDuplication } from '@/utils/content'
+
+export async function getStaticPaths() {
+  const posts: CollectionEntry<'posts'>[] = await getCollection('posts')
+
+  const duplicates = await checkPostSlugDuplication(posts)
+  if (duplicates.length > 0) {
+    throw new Error(`Duplicate post slugs:\n${duplicates.join('\n')}`)
+  }
+
+  return posts
+    .filter(post => import.meta.env.DEV || !post.data.draft)
+    .map((post) => {
+      const slug = post.data.abbrlink || post.id
+      return { params: { slug }, props: { post } }
+    })
+}
+
+interface Props {
+  post?: CollectionEntry<'posts'>
+}
+
+const { post: propPost } = Astro.props
+const { slug } = Astro.params
+
+// In dev mode, props might not be passed; fetch and find the post by slug
+let post = propPost
+if (!post) {
+  const posts = await getCollection('posts')
+  post = posts.find(p => (p.data.abbrlink || p.id) === slug)
+  if (!post) {
+    return Astro.redirect('/404')
+  }
+}
+
+const postSlug = post.data.abbrlink || post.id
+const { Content, headings, remarkPluginFrontmatter } = await render(post)
+
+---
+
+<Layout postTitle={post.data.title}>
+  <article class="heti">
+    <div class="relative">
+      <!-- Go Back Button On Desktop -->
+      <BackButton />
+      <!-- Title -->
+      <h1 class="post-title">
+        <span
+          transition:name={`post-${postSlug}`}
+          data-disable-theme-toggle-transition
+        >
+          {post.data.title}
+        </span>
+      </h1>
+    </div>
+
+    <!-- Date -->
+    <div
+      id="post-date"
+      class="mb-17.2 block c-primary font-time italic"
+      transition:name={`time-${postSlug}`}
+      data-disable-theme-toggle-transition
+    >
+      <PostDate
+        date={post.data.published}
+        updatedDate={post.data.updated}
+        minutes={remarkPluginFrontmatter.minutes}
+      />
+    </div>
+
+    <!-- TOC -->
+    {post.data.toc && <TOC headings={headings} />}
+
+    <!-- Content -->
+    <div id="post-content">
+      <Content />
+      <!-- Copyright -->
+      <div id="post-copyright" />
+      <!-- Tag List -->
+      {post.data.tags?.length > 0 && (
+        <div class="mt-12.6 uno-decorative-line" />
+        <TagList tags={post.data.tags} />
+      )}
+      <!-- Comment -->
+      <Comment />
+    </div>
+  </article>
+</Layout>

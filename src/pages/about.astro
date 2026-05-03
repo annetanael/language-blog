@@ -1,0 +1,19 @@
+---
+import { getCollection, render } from 'astro:content'
+import Layout from '@/layouts/Layout.astro'
+import { defaultLocale } from '@/config'
+
+const allAboutEntries = await getCollection('about')
+const aboutEntry = allAboutEntries.find(entry => entry.data.lang === defaultLocale)
+  ?? allAboutEntries.find(entry => entry.data.lang === '')
+const { Content } = aboutEntry ? await render(aboutEntry) : { Content: null }
+---
+
+<Layout>
+  <!-- Decorative Line -->
+  <div class="uno-decorative-line" />
+  <!-- About Page Content -->
+  <div class="heti">
+    {Content && <Content />}
+  </div>
+</Layout>

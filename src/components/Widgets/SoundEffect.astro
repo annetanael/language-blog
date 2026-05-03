@@ -45,9 +45,7 @@ function isMobileDevice(): boolean {
 }
 
 function getBasePath(): string {
-  const sitemap = document.head.querySelector('link[rel="sitemap"]')
-  const href = sitemap?.getAttribute('href')
-  return href?.replace('/sitemap-index.xml', '') || ''
+  return document.querySelector('meta[name="site-base"]')?.getAttribute('content') ?? ''
 }
 
 class SoundEffectManager {
