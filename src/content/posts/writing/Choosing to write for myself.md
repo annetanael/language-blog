@@ -68,6 +68,7 @@ It made writing a fulfilling activity for me again.
 
 
 Sadly, like any other creative endeavor, my interest in writing for Medium eventually died down.
+
 ---
 
 

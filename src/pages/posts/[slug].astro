@@ -47,7 +47,11 @@ const { Content, headings, remarkPluginFrontmatter } = await render(post)
 
 ---
 
-<Layout postTitle={post.data.title}>
+<Layout
+  postTitle={post.data.title}
+  postDescription={post.data.description}
+  postSlug={postSlug}
+>
   <article class="heti">
     <div class="relative">
       <!-- Go Back Button On Desktop -->
