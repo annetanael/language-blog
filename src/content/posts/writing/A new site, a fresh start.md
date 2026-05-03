@@ -6,7 +6,7 @@ tags:
   - Writing
   - Creativity
 draft: false
-pin: 0
+pin: 1
 toc: false
 lang: ''
 abbrlink: new-site-fresh-start
