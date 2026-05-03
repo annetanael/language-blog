@@ -6,7 +6,7 @@ export const themeConfig: ThemeConfig = {
     // site title
     title: 'anne muses',
     // site subtitle
-    subtitle: 'Musings on language learning and writing',
+    subtitle: 'on language learning and writing',
     // site description
     description: 'anne muses is a personal blog on language learning and writing.',
     // use static site title/subtitle/description
