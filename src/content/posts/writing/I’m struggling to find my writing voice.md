@@ -6,6 +6,7 @@ updated: ''
 tags:
   - Archive
   - Writing
+  - Perfectionism
   - Substack
 draft: false
 pin: 0

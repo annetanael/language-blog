@@ -4,7 +4,7 @@ lang: en
 
 # About
 
-![I’m not big on selfies, but I sure love posing in front of mirrors.](../posts/_images/1-about.jpg)
+![](../posts/_images/1-about.jpg)
 
 ¡Hola! Welcome to my little corner of the internet. ✨ 
 
@@ -55,9 +55,9 @@ And who knows? Maybe this is _the_ project that will finally get me writing cons
 
 
 ## How to browse this site
-I’ve added tags to each post for easy navigation. Head over to [Tags](/tags/) for the complete list.
+I’ve added tags to each post for easy navigation. Go to [Tags](/tags/) for the complete list.
 
-To get started, navigate to the site’s main categories:
+To get started, navigate to any of the site’s main categories:
 * [Spanish](/tags/Spanish/) or [Japanese](/tags/Japanese/) — Entries specific to these languages, including reflections, progress updates, resources, and study routines
 * [Language learning](/tags/Language%20learning/) — Thoughts on other languages or language learning in general
 * [Writing](/tags/Writing/) — Musings on the writing process
@@ -78,7 +78,7 @@ Finally, I’ve added related entries to each post for further reading. If you c
 ## Curated entries
 If you don’t know where to start, I recommend these posts:
 * [A new site, a fresh start](/posts/new-site/)
-* [My experience learning Japanese](/posts/experience-learning-japanese/)
+* [My Japanese learning journey](/posts/japanese-learning-journey/)
 * [Why I decided to learn Spanish](/posts/why-learn-spanish/)
 
 

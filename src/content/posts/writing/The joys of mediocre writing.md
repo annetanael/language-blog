@@ -7,9 +7,12 @@ tags:
   - Archive
   - Writing
   - Substack
-draft: false
+draft: true
 pin: 0
 toc: true
 lang: ''
 abbrlink: 'joys-mediocre-writing'
 ---
+
+> [!NOTE]
+> _This post was originally published on Substack._

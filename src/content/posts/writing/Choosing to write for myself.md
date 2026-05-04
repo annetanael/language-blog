@@ -6,6 +6,7 @@ updated: ''
 tags:
   - Archive
   - Writing
+  - Blogging
   - Medium
 draft: false
 pin: 0
@@ -15,7 +16,7 @@ abbrlink: 'selfishness-write-myself'
 ---
 
 > [!NOTE]
-> _This was originally published on Medium._
+> _This post was originally published on Medium._
 
 I’ve wanted to start a blog for years.
 
@@ -103,6 +104,7 @@ I got too overwhelmed and ended up putting the project on the back burner again.
 
 
 By this point, blogging was starting to look like a pipe dream.
+
 ## One step closer to reality
 Sometime last year—around four years after I started posting on Medium—I took blogging more seriously. I couldn’t let things stay the way they were.
 

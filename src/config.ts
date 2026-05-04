@@ -98,8 +98,8 @@ export const themeConfig: ThemeConfig = {
         url: '/atom.xml', // or /rss.xml
       },
       {
-        name: 'GitHub',
-        url: 'https://github.com/annetanael',
+        name: 'Substack',
+        url: 'https://substack.com/@annemuses',
       },
       {
         name: 'Email',

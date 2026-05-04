@@ -4,6 +4,7 @@ published: 2026-05-03
 description: 'Here’s to new beginnings.'
 tags:
   - Writing
+  - Blogging
   - Creativity
 draft: false
 pin: 1

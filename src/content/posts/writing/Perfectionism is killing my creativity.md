@@ -7,6 +7,8 @@ tags:
   - Archive
   - Writing
   - Creativity
+  - Perfectionism
+  - Substack
 draft: false
 pin: 0
 toc: true
@@ -15,8 +17,7 @@ abbrlink: 'perfectionism-killing-creativity'
 ---
 
 > [!NOTE]
-> _This was originally published on Substack._
-
+> _This post was originally published on Substack._
 
 I haven’t written anything in months.
 
