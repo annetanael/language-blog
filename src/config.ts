@@ -12,7 +12,7 @@ export const themeConfig: ThemeConfig = {
     // use static site title/subtitle/description
     i18nTitle: false, // true | false
     // author name
-    author: 'Anne Tanael',
+    author: 'Anne T.',
     // site url
     url: 'https://annemuses.com',
     // base path
