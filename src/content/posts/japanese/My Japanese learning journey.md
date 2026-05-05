@@ -1,9 +1,11 @@
 ---
 title: My Japanese learning journey
 published: 2026-05-04
-description: 'I’ve been trying to learn for most of my life, but I’m still far from fluent.'
+description: 'After years of trying to learn Japanese, I’m still far from fluent.'
 tags:
   - Japanese
+  - Japanese resources
+  - Anime
 draft: false
 pin: 1
 toc: true
@@ -100,7 +102,7 @@ Here’s what I tried (in no particular order):
 * Anki (Japanese Core 2k and Refold’s ES-JP 1k decks, among many others)
 * [Organic Japanese with Dolly Cure](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ) (I only read the transcripts—someone collated and annotated them in a comprehensive Google Docs file)
 
-Take note that I only included the resources that I managed to use for longer than a couple of weeks. I’m sure I tried more, but they just didn’t make the cut. Off the top of my head, I remember Bunpo, Memrise, MochiMochi, and Clozemaster.
+Take note that I only included the resources that I managed to use for longer than a couple of weeks. I’m sure I tried more, but they just didn’t make the cut. Off the top of my head, I remember trying out Duolingo, Bunpo, Memrise, MochiKanji, and Clozemaster.
 
 I discovered comprehensible input during this time and started consuming beginner-level content on Spotify and YouTube. I’ll write about my favorite podcasts and channels on a separate post.
 
@@ -114,7 +116,7 @@ But when I checked it again at the time, they had already launched a website and
 
 I’ve always liked the work that Yuki does, and I wanted to support her and the rest of the CIJ team. So after trying out their website for a couple of weeks, I went ahead and grabbed an annual subscription.
 
-The CIJ website is clean and intuitive, and there are so many nifty tools and features that make it ridiculously easy to keep consuming content in Japanese, even if you’re starting from zero. For one, it automatically tracks your listening hours, which serves as a great way to gauge your level and progress. I also like how you can easily filter videos by difficulty, topics, and more, allowing you to customize the viewing or listening experience.
+The CIJ website is clean and intuitive, and there are so many nifty tools and features that make it ridiculously easy to immerse in Japanese, even if you’re starting from zero. For one, it automatically tracks your listening hours, which serves as a great way to gauge your level and progress. I also like how you can easily filter videos by difficulty, topics, and more, allowing you to customize the viewing or listening experience.
 
 The idea is pretty straightforward. Start with Complete Beginner content, ensuring you watch the videos _without_ subtitles or looking anything up. Just try to follow the videos’ message using the visual context provided, such as drawings, photos, or gestures. Your brain does all the work for you. Over time, you’ll find that your comprehension increases and you can move on to the next level. 
 
@@ -128,7 +130,7 @@ In retrospect, I think I just wanted to tell myself that I was learning Japanese
 ### March 2026
 I finally hit 50 hours on the CIJ website. Yes, it took me six freaking months to do it. 
 
-My goal was to watch at least 30 minutes of CIJ every day, but it was harder than I expected. I only consumed about one to two hours of CIJ content weekly for most weeks (if any at all). The complete beginner videos were a real slog, and as soon as I hit play, I found myself getting distracted and wanting to do something else. I suddenly wanted to tidy up my room, or do an errand I’d been putting off for weeks. I had to force myself to sit down and actually watch.
+My goal was to watch at least 30 minutes of CIJ every day, but it was harder than I expected. I only immersed about one to two hours of CIJ content weekly for most weeks (if any at all). The complete beginner videos were a real slog, and as soon as I hit play, I found myself getting distracted and wanting to do something else. I suddenly wanted to tidy up my room, or do an errand I’d been putting off for weeks. I had to force myself to sit down and actually watch.
 
 To be honest, I also quickly lost motivation. I was excited in September, but my enthusiasm quickly dwindled, and by December, I wanted to quit again. I just forced myself to show up when I could.
 
@@ -150,8 +152,14 @@ There’s too much information online, and people claiming that this or that met
 
 For example, I finally accepted that Anki and the Genki books (or any structured textbooks, for that matter) no longer have a place in my routine. I’ve tried them far too many times already, and they always ended up demotivating me and derailing my learning journey. (As I’m typing this, I can just about imagine the Redditors at [r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/) coming for me.)
 
+As much as I love stationery and writing by hand, taking notes doesn’t work for me either. Oh, and I also learned that pure immersion isn’t for me. While we’re on the topic, let me just say that I’m _sick_ of people who just say, “Just immerse bro,” as if there’s just one way to learn a language, and most of them even go so far as to mock or dismiss those with a different approach. I know the value of immersion—but there’s nothing sacrilegious about doing something else on top of it, such as, say, explicit grammar study or in-person classes. My point is, things aren’t always black and white when it comes to language learning.
+
+I have tons of other realizations—and I promise to explore them in more detail in the future.
+
 Even though I didn’t make much progress in Japanese over the past few years, I’m still grateful because I learned so many other valuable things—tools, resources, approaches, _and_ perspectives that will help me learn Japanese on my own terms when I’m ready.
 
 And I think that time has finally come.
 
 Anyway, that’s about it. I just wanted to reflect on my previous learning experience before I rant about Japanese any further.
+
+Now that the admin stuff is finally out of the way, we can move on to the fun part. さあ、行こう！
