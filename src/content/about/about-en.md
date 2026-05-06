@@ -8,7 +8,7 @@ lang: en
 
 ¡Hola! Welcome to my little corner of the internet. ✨ 
 
-This is where I document my musings on language learning, writing, and everything else in between.
+This is where I document my musings on language learning, writing, life, and everything else in between.
 
 ## Who I am
 I’m Anne—a content professional by day, a dreamer and lifelong learner by night.
@@ -65,11 +65,11 @@ To get started, navigate to any of the site’s main categories:
 * [Writing](/tags/Writing/)
 
 Here are additional tags for my ongoing series:
-* [Spanish media diaries](/tags/Spanish%20media%20diaries/) — Reflections on Spanish media I recently consumed
-* [Spanish weekly round-up](/tags/Spanish%20weekly%20round-up/) — Sporadic updates on what I did for Spanish for a specific week 
-* [Japanese progress updates](/tags/Japanese%20progress%20updates/) — Musings on how my Japanese studies are going
-* [Language wins](/tags/Language%20wins/) — Because all wins should be celebrated, no matter how small
-* [Life lately](/tags/Life%20lately/) — Lifestyle posts on language learning, writing, or life in general
+* [Spanish media diaries](/tags/Spanish%20media%20diaries/)
+* [Spanish weekly round-up](/tags/Spanish%20weekly%20round-up/)
+* [Japanese progress updates](/tags/Japanese%20progress%20updates/)
+* [Language wins](/tags/Language%20wins/)
+* [Life lately](/tags/Life%20lately/)
 
 I’ve also added relevant writings from other sites and platforms (including [Substack](/tags/Substack/) and [Medium](/tags/Medium/)). You’ll find the articles on [Archive](/tags/Archive/), and they’ll also appear in the main categories they belong to. This is still a work-in-progress.
 
