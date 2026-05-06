@@ -146,7 +146,7 @@ After hitting my 50-hour milestone, things shifted. All of a sudden, I got inspi
 ### April 2026
 After weeks of toying with the idea of taking Japanese seriously, I finally started experimenting and establishing a new study routine—but that’s a story for another post.
 
-![A typical morning](../_images/jp-learning-3.jpg)
+![My mornings lately: coffee, lofi, and Japanese.](../_images/jp-learning-3.jpg)
 
 ## An important turning point
 Well, that was quite the journey. So when I say that I’ve tried so many different resources, I _really_ do mean it.

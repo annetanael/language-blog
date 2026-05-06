@@ -73,14 +73,6 @@ Here are additional tags for my ongoing series:
 
 I’ve also added relevant writings from other sites and platforms (including [Substack](/tags/Substack/) and [Medium](/tags/Medium/)). You’ll find the articles on [Archive](/tags/Archive/), and they’ll also appear in the main categories they belong to. This is still a work-in-progress.
 
-
-## Curated entries
-If you don’t know where to start, I recommend these posts:
-* [A new site, a fresh start](/posts/new-site/)
-* [My Japanese learning journey](/posts/japanese-learning-journey/)
-* [Why I decided to learn Spanish](/posts/why-learn-spanish/)
-
-
 ## Let’s chat
 Have a question or just want to say hi? Feel free to reach out to me on [Reddit](https://www.reddit.com/user/annemuses/) or by [email](anne.mensajes@gmail.com). 
 
