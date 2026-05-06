@@ -1,13 +1,12 @@
 ---
 title: Perfectionism is killing my creativity
 published: 2023-11-27
-description: 'It has stopped me from pursuing several writing projects. But today, I decided to power through it.'
+description: 'It has stopped me from pursuing several writing projects. But today, I powered through it.'
 updated: ''
 tags:
   - Archive
   - Writing
   - Creativity
-  - Perfectionism
   - Substack
 draft: false
 pin: 0

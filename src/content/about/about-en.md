@@ -47,6 +47,7 @@ And who knows? Maybe this is _the_ project that will finally get me writing cons
 * **Walls of text on language learning and writing.** You’ve been warned.
 * **Non-traditional—perhaps “inefficient”—learning methods.** Language learning is very personal. What works for me may not work for you, so take everything with a grain of salt. You probably won’t agree with some of my methods, and that’s okay! In fact, it’s what makes language learning so fun and exciting. We all have different priorities, preferences, and learning styles, and there’s simply no one right way of doing things.
 * **Meta posts about writing.** This blog is a writing practice first and foremost, so you can expect some entries about the writing process itself. The fact that I get to nerd out on languages is just a lovely bonus. Besides, writing _is_ an important facet of language learning, isn’t it?
+* **Occasional posts on miscellaneous topics.** I might ramble about my other hobbies, latest hyperfixations, or life in general. Many of my interests, particularly [reading](/tags/Reading/) and [gaming](/tags/Gaming/), also shaped my language learning and writing in one way or another, so I think they deserve a spot on this site.
 
 ## What _not_ to expect
 * **Language learning advice.** I don’t feel qualified enough to tell you how to learn or acquire a language, and there’s already plenty of information online. I just want to share my experience learning Spanish and Japanese, along with my reflections on languages in general. If it helps you with your own learning journey, then great! But that’s not my goal.
@@ -58,21 +59,19 @@ And who knows? Maybe this is _the_ project that will finally get me writing cons
 I’ve added tags to each post for easy navigation. Go to [Tags](/tags/) for the complete list.
 
 To get started, navigate to any of the site’s main categories:
-* [Spanish](/tags/Spanish/) or [Japanese](/tags/Japanese/) — Entries specific to these languages, including reflections, progress updates, resources, and study routines
-* [Language learning](/tags/Language%20learning/) — Thoughts on other languages or language learning in general
-* [Writing](/tags/Writing/) — Musings on the writing process
+* [Spanish](/tags/Spanish/)
+* [Japanese](/tags/Japanese/)
+* [Language learning](/tags/Language%20learning/)
+* [Writing](/tags/Writing/)
 
 Here are additional tags for my ongoing series:
 * [Spanish media diaries](/tags/Spanish%20media%20diaries/) — Reflections on Spanish media I recently consumed
-* [Spanish weekly round-up](/tags/Spanish%20weekly%20round-up/) — Occasional updates on what I did for Spanish for a specific week
+* [Spanish weekly round-up](/tags/Spanish%20weekly%20round-up/) — Sporadic updates on what I did for Spanish for a specific week 
 * [Japanese progress updates](/tags/Japanese%20progress%20updates/) — Musings on how my Japanese studies are going
 * [Language wins](/tags/Language%20wins/) — Because all wins should be celebrated, no matter how small
-* [Life lately](/tags/Life%20lately/) — Lifestyle posts on language learning, writing, or daily life in general
+* [Life lately](/tags/Life%20lately/) — Lifestyle posts on language learning, writing, or life in general
 
 I’ve also added relevant writings from other sites and platforms (including [Substack](/tags/Substack/) and [Medium](/tags/Medium/)). You’ll find the articles on [Archive](/tags/Archive/), and they’ll also appear in the main categories they belong to. This is still a work-in-progress.
-
-
-Finally, I’ve added related entries to each post for further reading. If you click on an entry and it leads to a blank page, it means I haven’t written it yet, or it’s a past article I still haven’t migrated to this site.
 
 
 ## Curated entries
