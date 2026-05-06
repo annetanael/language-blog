@@ -76,7 +76,7 @@ I’ve also added relevant writings from other sites and platforms (including [S
 ## Let’s chat
 Have a question or just want to say hi? Feel free to reach out to me on [Reddit](https://www.reddit.com/user/annemuses/) or by [email](anne.mensajes@gmail.com). 
 
-You can also DM me on Discord: `anne_idiomas`.
+You can also DM me on Discord at `anne_idiomas`.
 
 ---
 

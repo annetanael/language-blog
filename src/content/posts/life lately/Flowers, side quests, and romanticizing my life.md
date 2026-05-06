@@ -60,7 +60,7 @@ The past few weeks have been a delight, and I wanted to take a moment to reflect
 * Early morning walks where I can catch the bees’ frenzied dance as they move from one plant to another (but I have to admit it makes me nervous when they get a tad too close to me)
 * Birds _everywhere_; I feel privileged to live in a neighborhood with plenty of areas where birds can rest
 * Witnessing the sky change colors, and the sun dip into the horizon
-* Going to the secondhand bookstore and finding the exact books I’m looking for, and finding books I didn’t know I needed (and for a very low price, to boot!)
+* Going to the secondhand bookstore and finding the exact books I’m looking for, and finding books I didn’t know I needed (and for very low prices, to boot!)
 * The pile of physical books by my bed, because sometimes I’m just in the mood to smell the pages and ink and to feel the paper between my fingertips
 * Taking my little notebook with me everywhere I go, so I can jot down ideas before they fade into oblivion
 * Making my usual iced coffee (or matcha) early in the morning, carefully measuring the ingredients and ensuring nothing is a gram too heavy
