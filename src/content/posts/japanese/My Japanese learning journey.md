@@ -153,7 +153,7 @@ Well, that was quite the journey. So when I say that I’ve tried so many differ
 
 It’s worth pointing out that a huge shift occurred to me sometime during 2023 to 2024—not just for Japanese, but for language learning as a whole.
 
-That is, I matured a lot as a language learner. After a few years of trying to “acquire” Spanish, I finally figured out my learning style. As a result, I learned to block out the noise—I stopped relying on others too much and learned to trust my own gut and decisions. I know myself, and I know what works for _me_, even if others say my method is inefficient or doomed to fail.
+That is, I matured a lot as a language learner. After a few years of trying to “acquire” Spanish, I finally figured out my learning style. As a result, I learned to block out the noise—I stopped relying on others too much and started trusting my gut and decisions. I know myself, and I know what works for _me_, even if others say my method is inefficient or doomed to fail.
 
 Who cares?
 
@@ -161,7 +161,7 @@ There’s too much information online, and people claiming that this or that met
 
 For example, I finally accepted that Anki and the Genki books (or any structured textbooks, for that matter) no longer have a place in my routine. I’ve tried them far too many times already, and they always end up demotivating me and derailing my learning journey. (As I’m typing this, I can just about imagine the Redditors at [r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/) coming for me.)
 
-As much as I love stationery and writing by hand, taking notes doesn’t work for me. I also learned that pure immersion isn’t for me either. And while we’re on the topic, let me just say that I’m _sick_ of people who just say, “Just immerse bro,” as if there’s just one way to learn a language, and I hate it when some of them even go so far as to mock or dismiss those with a different approach. I know the value of immersion, but there’s nothing sacrilegious about doing something else on top of it, such as, say, explicit grammar study, in-person classes, or whatever floats your boat. My point is, things aren’t always black and white when it comes to language learning, and it grates me when people act or believe otherwise.
+I also learned that pure immersion isn’t for me either. And while we’re on the topic, let me just say that I’m _sick_ of people who just say, “Just immerse bro,” as if there’s just one way to learn a language, and I hate it when some of them even go so far as to mock or dismiss those with a different approach. I know the value of immersion, but there’s nothing sacrilegious about doing something else on top of it, such as, say, explicit grammar study, in-person classes, or whatever floats your boat. My point is, things aren’t always black and white when it comes to language learning, and it grates me when people preach otherwise.
 
 I have tons of other realizations. I promise to explore them in more detail in the future.
 

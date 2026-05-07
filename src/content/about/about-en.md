@@ -51,7 +51,7 @@ And who knows? Maybe this is _the_ project that will finally get me writing cons
 
 ## What _not_ to expect
 * **Expert language learning advice.** I don’t feel qualified enough to tell you how to learn or acquire a language, and there’s already plenty of information online. I just want to share my experience learning Spanish and Japanese, along with my reflections on languages in general. If it helps you on your learning journey, great! But that’s not my goal.
-* **Beautiful, eloquent writing.** My entries will meander a lot—they’re essentially a haphazard attempt to dissect my brain and translate my mangled thoughts onto paper. While I’ll do my best to polish my writing (it’s the editor and perfectionist in me), I know it’ll still be somewhat rough around the edges. It won’t be creative writing. There might be times when I’ll make an effort to be more creative, but it won’t be the norm. I like to think of this blog as a glorified journal.
+* **Beautiful, eloquent writing.** My entries will meander a lot—they’re essentially a haphazard attempt to dissect my brain and translate my mangled thoughts onto paper. While I’ll do my best to polish my writing (it’s the editor and perfectionist in me), I know it’ll still be somewhat rough around the edges. It won’t be creative writing. Sometimes I’ll make an effort to be more creative, but it won’t be the norm. I like to think of this blog as a glorified journal.
 * **Complete, fully comprehensible entries.** I’m writing mainly for myself. So if something doesn’t make sense, like there’s missing context or whatnot, it’s because I’m literally _not_ writing with the reader in mind.
 
 

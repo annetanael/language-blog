@@ -13,7 +13,7 @@ lang: ''
 abbrlink: new-site-fresh-start
 ---
 
-I never imagined that I’d launch another personal blog ever again, especially not after all my past failed attempts. It just felt like I could _never_ sustain a writing project—or any creative project, for that matter—for more than a few weeks or a couple of months at a time. At one point, I even started blaming my undiagnosed ADHD. It’s a much easier pill to swallow than my shortcomings as a writer.
+I never imagined that I’d launch another personal blog ever again, especially not after my past attempts. It just felt like I could _never_ sustain a writing project—or any creative project, for that matter—for more than a few weeks or a couple of months at a time. At one point, I even started blaming my undiagnosed ADHD. It’s a much easier pill to swallow than my shortcomings as a writer.
 
 
 And yet, despite all that self-doubt, here I am. And on a new website, to boot.
