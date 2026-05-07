@@ -19,7 +19,7 @@ abbrlink: 'life-lately-1'
 
 “Experience” is one of my mantras this year.
 
-I want to fill my cup with meaningful activities and memories, _not_ things. I already have too much clutter, too many unused items collecting dust, and I wanted to spend my hard-earned money more intentionally instead.
+I want to fill my cup with meaningful activities and memories—_not_ things. I already have too much clutter, too many unused items collecting dust, and I wanted to spend my hard-earned money more intentionally instead.
 
 As a homebody, this also means literally going out of my comfort zone and having little adventures outside. It wasn’t such a dramatic shift; after all, I’ve always loved going on solo dates, but I knew that I didn’t do it as often as I should.
 
@@ -53,7 +53,7 @@ The past few weeks have been a delight, and I wanted to take a moment to reflect
 :::gallery
 ![Sunsets never fail to make me catch my breath.](../_images/life-lately-01/01-life_lately-7.jpg)
 ![I have a problem, I know...](../_images/life-lately-01/01-life_lately-8.jpg)
-![My trusted notebook!](../_images/life-lately-01/01-life_lately-9.jpg)
+![My trusted notebook! I always bring it with me.](../_images/life-lately-01/01-life_lately-9.jpg)
 ![My typical baon at work.](../_images/life-lately-01/01-life_lately-10.jpg)
 :::
 
@@ -90,7 +90,7 @@ While I don’t actively play Stardew Valley anymore, this game still holds a sp
 
 ### Día del libro 2026
 
-![Día del libro or “Book Day” is an annual cultural festival organized by Instituto Cervantes. By the time I left (around half-past nine), the concert on stage was already in full swing.](../_images/life-lately-01/01-life_lately-14.jpg)
+![Día del libro or “Book Day” is an annual cultural festival organized by Instituto Cervantes. By the time I left (around half-past nine), the concert on stage was already in full swing, and the crowd was going wild.](../_images/life-lately-01/01-life_lately-14.jpg)
 
 I’ve always wanted to go, but unfortunately, it fell on the same date as the SDV concert. I arrived at Ayala Triangle quite late and missed most of the events. I still managed to snag a few Spanish books, though! It was strange to be surrounded by so many foreigners at once and to actually understand everything they were saying.
 
@@ -104,7 +104,7 @@ I’ve always wanted to go, but unfortunately, it fell on the same date as the S
 
 I’ve always enjoyed going to coffee shops by myself, just people watching, planning, reading, or journaling. I haven’t spent much time in cafés lately, and the few times that I did, I went to my favorites instead of exploring new ones.
 
-Iced oat latte is my go-to order, but sometimes I go for an americano, caramel macchiato, honey cinnamon latte, or Spanish latte, depending on my mood. _Always_ iced. I sub oat milk for my milk-based drinks and always ask for less sweet for the sweetened ones.
+My go-to order is an iced oat latte, but sometimes I go for an americano or flavored drinks, depending on my mood. _Always_ iced. I ask for oat milk for my milk-based drinks and always ask for less sweet for the sweetened ones.
 
 ## Other musings
 * I’ve been thinking about cycling a lot. I haven’t ridden a bicycle in more than a decade, and I actually told myself I would never ride one again after I nearly got into so many accidents during my “adventurous girl era” way back in college, but here I am. My dad and brothers are avid cyclists, so they’re all enabling me to get back into it. I’m just a girl, and I’m this close to giving in.

@@ -42,24 +42,21 @@ Why static pages?
 
 I’ve already dabbled in far too many writing projects, many of them about personal writing or blogging. Name a platform, and I’ve most likely already used it—Multiply, Blogspot, Wordpress, Tumblr, Reddit, [Medium](/tags/Medium/), [Substack](/tags/Substack/), the list goes on and on. I also have an array of private writing projects on various programs, from the good ol’ Word to Scrivener to Notion. 
 
-
 And I’m embarrassed to admit this, but yes: none of them truly panned out. 
 
 > [!NOTE]
 > Journaling isn’t included in this whole debacle. I consider that an entirely separate practice, one that’s already been a constant element in my life.
 
-Anyway, I opted for static pages because I appreciate the simplicity and the freedom. I just want a place to dump my walls of text—nothing else. I didn’t need fancy features. More importantly, I wanted full control. I was done relying on a third-party platform to host my writings.
+I opted for static pages because I appreciate the simplicity and the freedom. I just want a place to dump my walls of text—nothing else. I didn’t need fancy features. More importantly, I wanted full control. I was done relying on a third-party platform to host my writings.
 
 
-So, on that note alone, Substack—my latest platform—is already out of the equation. And as much as I love the site’s aesthetic and community, it’s too much noise and distraction. I don’t want to read anyone else’s thoughts, interact with the other users, or spark a conversation.
+On that note alone, Substack—my latest platform—is already out of the equation. And as much as I love the site’s aesthetic and community, it’s too much noise and distraction. I don’t want to read anyone else’s thoughts, interact with the other users, or spark a conversation.
 
 
 At its core, this writing project is essentially a digital diary, and I want it to be as private and personal as possible _while_ still being published online. It’s public enough that I don’t mind if someone I know stumbles upon it. I’m not sharing anything extremely private or revealing, after all.
 
 
 I wanted to publish my entries to keep myself accountable. I also love the idea that I’m baring my soul online for the whole world to read, but no one knows the site even exists. And because I’m a nobody, no one cares about what I have to say. I’m not saying this to be self-disparaging. In fact, it’s quite the opposite: I feel powerful, and I relish the anonymity. It feels oddly liberating in a way that I can’t put into words.
-
-> **Read**: [The joys of mediocre writing](posts/joys-mediocre-writing/)
 
 With that said, static pages seemed perfect for my needs.
 
@@ -84,5 +81,6 @@ But all that hard work is just the first step. I’ve already laid down the foun
 Let’s get writing, shall we?
 
 ## Related entries
+* [The joys of mediocre writing](/posts/joys-mediocre-writing/)
 * [Perfectionism is killing my creativity](/posts/perfectionism-killing-creativity/)
-* [Choosing to write for myself](/posts/selfishness-write-myself/)
+* [Selfishness redefined: choosing to write for myself](/posts/selfishness-write-myself/)
