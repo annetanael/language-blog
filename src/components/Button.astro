@@ -1,5 +1,6 @@
 ---
-import ThemeToggleIcon from '@/assets/icons/theme-toggle.svg'
+import MoonIcon from '@/assets/icons/moon.svg'
+import SunIcon from '@/assets/icons/sun.svg'
 import { themeConfig } from '@/config'
 
 const {
@@ -22,7 +23,13 @@ const {
     data-dark-mode={darkMode}
     aria-label="Switch light/dark theme"
   >
-    <ThemeToggleIcon
+    <MoonIcon
+      class="inline-block dark:hidden"
+      aria-hidden="true"
+      fill="currentColor"
+    />
+    <SunIcon
+      class="hidden dark:inline-block"
       aria-hidden="true"
       fill="currentColor"
     />

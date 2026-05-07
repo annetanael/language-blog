@@ -40,7 +40,9 @@ export const themeConfig: ThemeConfig = {
       background: 'oklch(96% 0.005 298)',
       // highlight color
       // used for navbar, selected text, etc
-      highlight: 'oklch(0.93 0.195089 103.2532 / 0.5)', // rgba(255,235,0,0.5)
+      highlight: 'oklch(0.79 0.09 24 / 0.46)', // light salmon pink (#FB998E-esque)
+      // accent color for supporting UI text (date, reading time, subtitle)
+      accent: 'oklch(0.58 0.09 24)', // slightly darker salmon for better light-mode contrast
     },
     dark: {
       // primary color
@@ -50,7 +52,9 @@ export const themeConfig: ThemeConfig = {
       // background color
       background: 'oklch(22% 0.005 298)',
       // highlight color
-      highlight: 'oklch(0.93 0.195089 103.2532 / 0.2)', // rgba(255,235,0,0.2)
+      highlight: 'oklch(0.72 0.09 24 / 0.42)', // slightly darker salmon for stronger contrast in dark mode
+      // accent color for supporting UI text (date, reading time, subtitle)
+      accent: 'oklch(0.8 0.07 24)', // lighter salmon for dark background contrast
     },
   },
   // COLOR SETTINGS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> END

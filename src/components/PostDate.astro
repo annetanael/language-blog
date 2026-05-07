@@ -60,7 +60,9 @@ function formatDate(date: Date, format: DateFormat) {
 ---
 
 <!-- published date -->
-<time datetime={date.toISOString().split('T')[0]}>
+<time
+  datetime={date.toISOString().split('T')[0]}
+>
   {formatDate(date, format)}
 </time>
 
