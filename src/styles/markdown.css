@@ -32,14 +32,15 @@
     td:not(.no-heti):not(.no-heti *),
     th:not(.no-heti):not(.no-heti *)
   ) {
-    font-size: 18px;
+    font-size: 18.5px;
     line-height: 1.8;
   }
 }
 
 /* Customized Post Title */
-.heti .post-title {
+html:not(.dark) .heti .post-title {
   --at-apply: 'mb-2 mt-0 text-8.5 font-bold lg:text-9';
+  color: #363737;
 }
 
 /* Headings */
@@ -51,12 +52,17 @@
 }
 .heti :where(h2) {
   --at-apply: 'text-6 c-primary';
+  font-size: 25px;
 }
 .heti :where(h3) {
   --at-apply: 'text-5';
 }
 .heti :where(h4) {
   --at-apply: 'text-4.5';
+  font-size: 19px;
+}
+html:not(.dark) .heti #post-content :where(h2, h3, h4, h5, h6) {
+  color: #363737;
 }
 .heti :where(h5) {
   --at-apply: 'text-4';
