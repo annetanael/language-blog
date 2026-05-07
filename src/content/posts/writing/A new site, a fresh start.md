@@ -45,9 +45,8 @@ I’ve already dabbled in far too many writing projects, many of them about pers
 
 And I’m embarrassed to admit this, but yes: none of them truly panned out. 
 
-
-Just to be clear: journaling isn’t included in this whole debacle. I consider that an entirely separate practice, one that’s already been a constant element in my life.
-
+> [!NOTE]
+> Journaling isn’t included in this whole debacle. I consider that an entirely separate practice, one that’s already been a constant element in my life.
 
 Anyway, I opted for static pages because I appreciate the simplicity and the freedom. I just want a place to dump my walls of text—nothing else. I didn’t need fancy features. More importantly, I wanted full control. I was done relying on a third-party platform to host my writings.
 
@@ -60,8 +59,9 @@ At its core, this writing project is essentially a digital diary, and I want it 
 
 I wanted to publish my entries to keep myself accountable. I also love the idea that I’m baring my soul online for the whole world to read, but no one knows the site even exists. And because I’m a nobody, no one cares about what I have to say. I’m not saying this to be self-disparaging. In fact, it’s quite the opposite: I feel powerful, and I relish the anonymity. It feels oddly liberating in a way that I can’t put into words.
 
+> **Read**: [The joys of mediocre writing](posts/joys-mediocre-writing/)
 
-With all that being said, static pages seemed perfect for my needs.
+With that said, static pages seemed perfect for my needs.
 
 
 The only downside is that setting up a static website has a learning curve. Although I’ve done it before, it was several years ago, and I don’t remember a single thing about it.
@@ -76,7 +76,7 @@ When I first toyed with the idea of tinkering with the command line all over aga
 But fate always has a way of messing with you.
 
 
-When I finally sat down to work on my static site this morning, I was astonished that within a few hours, I’d already customized and deployed my blog for the whole world to see—and on its fancy domain, too. I also surprisingly enjoyed the process; it was nice obsessing over something new, something challenging.
+When I finally sat down to work on my static site this morning, I was astonished that within a few hours, I’d already customized and deployed my blog for the whole world to see—and on its fancy domain, too. I also surprisingly enjoyed the process; it was nice obsessing over something new.
 
 
 But all that hard work is just the first step. I’ve already laid down the foundations. Now, it’s time to sit down and actually do the work.
@@ -86,4 +86,3 @@ Let’s get writing, shall we?
 ## Related entries
 * [Perfectionism is killing my creativity](/posts/perfectionism-killing-creativity/)
 * [Choosing to write for myself](/posts/selfishness-write-myself/)
-* [My love-hate relationship with writing](posts/love-hate-relationship/)

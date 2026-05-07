@@ -13,9 +13,9 @@ lang: ''
 abbrlink: japanese-learning-journey
 ---
 
-I’ve always had a love-hate relationship with the Japanese language.
+I’ve always had a love-hate relationship with Japanese.
 
-Like many Filipinos born in the 90s, I grew up watching anime, so naturally, I became drawn to Japanese culture from an early age. I can still remember rushing home from class so I could watch the latest episodes of Sailor Moon, Card Captor Sakura, Fushigi Yuugi, Hunter x Hunter, and Ghost Fighter, among many others. I _devoured_ whatever was airing on local television, regardless of the genre.
+Like many Filipinos born in the 90s, I grew up watching anime, so I was naturally drawn to Japanese culture from an early age. I can still remember rushing home from class so I could watch the latest episodes of Sailor Moon, Card Captor Sakura, Fushigi Yuugi, Hunter x Hunter, and Ghost Fighter, among many others. I _devoured_ whatever was airing on local television, regardless of the genre.
 
 When I was ten, I became close friends with a Japanese boy in my class, who got wind of my anime obsession and decided to lend me a Japanese textbook.
 
@@ -46,7 +46,7 @@ Unfortunately, that never occurred to me in Japanese.
 
 ---
 
-As I mentioned, I always ended up abandoning it for one reason or another. A new hobby or obsession would enter the picture. I’d be stuck in the research or planning stage, then be trapped in decision paralysis. I’d overdo it with resources, do too much all at once, then inevitably succumb to burnout. Or, maybe, I’d simply lose all interest or motivation.
+As I mentioned, I always ended up abandoning it for one reason or another. A new hobby or obsession would enter the picture. I’d get stuck in the research or planning stage, then fall into decision paralysis. I’d overdo it with resources, do too much all at once, then inevitably succumb to burnout. Or, maybe, I’d simply lose all interest or motivation.
 
 At one point—I think it was sometime during the pandemic—I declared that I was done learning Japanese _for good_. I wrote a detailed journal entry on my decision, and it felt liberating and cathartic at the same time. I was finally free from the clutches of this beautiful yet demanding language, and it was as though a heavy boulder had been lifted off my shoulders.
 
@@ -59,7 +59,7 @@ I was bound to fall back in love with it, no matter what.
 ## Timeline of my Japanese studies
 Whenever someone asks me how long I’ve been learning Japanese, I can never provide a proper answer.
 
-In the end, I always default to something like, “I’ve been studying it on-and-off for most of my life.” It’s true, but it doesn’t quite capture the full picture. Most of that time was spent on unproductive activities, not to mention that I acquired most of my knowledge only within the last couple of years.
+In the end, I always default to something like, “I’ve been studying it on-and-off for most of my life.” It’s true, but it doesn’t quite capture the full picture. Most of that time was spent on unproductive activities, and I acquired most of my knowledge only in the last couple of years.
 
 Anyway, it’s been a long, winding journey, and I think it’s time I finally sit down and reflect on what I’ve done and learned so far.
 
@@ -67,7 +67,7 @@ Anyway, it’s been a long, winding journey, and I think it’s time I finally s
 A friend lent me a textbook on learning Japanese. You already know the story.
 
 ### 2006 to 2013
-I casually tried to learn Japanese with online resources and a book written for Filipinos. I don’t remember the title anymore; it’s a slim book I randomly found in a local bookstore, and the Japanese was written solely in rōmaji. Interestingly enough, it provided comparisons between Japanese and Tagalog, particularly grammar and syllabary.
+I casually tried to learn Japanese with online resources and a book written for Filipinos. I don’t remember the title anymore; it’s a slim book I randomly found in a local bookstore, and the Japanese was written solely in rōmaji. Interestingly, it provided comparisons between Japanese and Tagalog, particularly grammar and syllabary.
 
 But overall, my Japanese studies during this period were intermittent, and I didn’t get very far.
 
@@ -76,7 +76,7 @@ I learned greetings, basic phrases, and everyday sentences, but it was mostly ro
 ### 2013
 I enrolled in a 30-hour in-person basic Japanese class over the summer. We breezed through Genki I, but I was already familiar with most of the grammatical concepts and structures discussed in the book. I finally learned some kanji and tried speaking in Japanese for the first time.
 
-Once the class was over, I got obsessed with writing in Japanese. I kept a simple handwritten journal, written in kana and the few kanji that I knew. I also jotted down the lyrics of anime songs. I most likely skimmed through my notes and remember checking out [Tae Kim’s Grammar Guide](https://guidetojapanese.org/learn/), a resource our sensei recommended.
+Once the class was over, I got obsessed with writing in Japanese. I kept a simple handwritten journal in kana and the few kanji I knew. I also jotted down the lyrics of anime songs. I most likely skimmed through my notes and remember checking out [Tae Kim’s Grammar Guide](https://guidetojapanese.org/learn/), a resource our sensei recommended.
 
 ### 2014 to 2018
 Life revolved around university and my first job. I don’t remember doing any active study during this period. I might have experimented with a few apps, but Japanese simply wasn’t a priority during this time. I continued watching anime when I could.
@@ -109,9 +109,9 @@ Here’s what I tried (in no particular order):
 * Genki books (again), paired with Seth Clydesdale’s [Genki exercises](https://sethclydesdale.github.io/genki-study-resources/) and Tokini Andy’s [YouTube videos](https://www.youtube.com/playlist?list=PLA_RcUI8km1NKAoxPzDoIoflnd6bNC7Qm)
 * [Organic Japanese with Dolly Cure](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ) (I only read the transcripts—someone collated and annotated them in a comprehensive Google Docs file)
 
-Take note that I only included the resources that I managed to use for longer than a couple of weeks. I’m sure I tried more, but they just didn’t make the cut. Off the top of my head, I remember trying out Bunpo, Clozemaster, Duolingo, Memrise, and MochiKanji.
+Take note that I only included the resources I used for more than a couple of weeks. I’m sure I tried more, but they just didn’t make the cut. Off the top of my head, I remember trying out Bunpo, Clozemaster, Duolingo, Memrise, and MochiKanji.
 
-I discovered comprehensible input during this time and started consuming beginner-level content on Spotify and YouTube. I’ll write about my favorite podcasts and channels on a separate post.
+I discovered comprehensible input during this time and started consuming beginner-level content on Spotify and YouTube. I’ll write about my favorite podcasts and channels in a separate post.
 
 ### September 2025
 I don’t know what came over me, but I decided to experiment and try a new approach once again. I used [Dreaming Spanish](https://www.dreaming.com/spanish) a lot when I first started learning Spanish, and I thought, _Why not do the same with Japanese?_
@@ -121,9 +121,9 @@ I don’t know what came over me, but I decided to experiment and try a new appr
 When I first learned about CIJ a few years ago, it was only available on YouTube, with an option to support Yuki, the creator, through Patreon. 
 But when I checked it again at the time, they had already launched a website and subscription plans. It was similar to what Dreaming Spanish had (which, admittedly, I had never used; it didn’t exist yet when I was learning Spanish).
 
-I’ve always liked the work that Yuki does, and I wanted to support her and the rest of the CIJ team. So after trying out their website for a couple of weeks, I went ahead and grabbed an annual subscription.
+I’ve always liked Yuki’s work, and I wanted to support her and the rest of the CIJ team. So after trying out their website for a couple of weeks, I went ahead and grabbed an annual subscription.
 
-The CIJ website is clean and intuitive, and there are so many nifty tools and features that make it ridiculously easy to immerse in Japanese, even if you’re starting from zero. For one, it automatically tracks your listening hours, which serves as a great way to gauge your level and progress. I also like how you can easily filter videos by difficulty, topics, and more, allowing you to customize the viewing or listening experience.
+The CIJ website is clean and intuitive, and it offers so many nifty tools and features that make it ridiculously easy to immerse in Japanese, even if you’re starting from zero. For one, it automatically tracks your listening hours, which serves as a great way to gauge your level and progress. I also like how you can easily filter videos by difficulty, topics, and more, allowing you to customize the viewing or listening experience.
 
 The idea is pretty straightforward. Start with Complete Beginner content, ensuring you watch the videos _without_ subtitles or looking anything up. Just try to follow the videos’ message using the visual context provided, such as drawings, photos, or gestures. Your brain does all the work for you. Over time, you’ll find that your comprehension increases and you can move on to the next level. 
 
@@ -132,12 +132,12 @@ The idea is pretty straightforward. Start with Complete Beginner content, ensuri
 
 On the side, I continued listening to beginner podcasts on Spotify. But I stopped all forms of active study.
 
-In retrospect, I think I just wanted to tell myself that I was learning Japanese _without_ dedicating a lot of time and effort into it. That is, I wanted to study the language casually, and watching videos seemed like the bare minimum.
+In retrospect, I think I just wanted to tell myself that I was learning Japanese _without_ dedicating a lot of time and effort to it. That is, I wanted to study the language casually, and watching videos seemed like the bare minimum.
 
 ### March 2026
 I finally hit 50 hours on the CIJ website. Yes, it took me six freaking months to do it. 
 
-My goal was to watch at least 30 minutes of CIJ every day, but it was harder than I expected. I only immersed about one to two hours of CIJ content weekly for most weeks (if any at all). The complete beginner videos were a real slog, and as soon as I hit play, I found myself getting distracted and wanting to do something else. I suddenly wanted to tidy up my room, or do an admin task I’d been putting off for weeks. I had to force myself to sit down and actually watch.
+My goal was to watch at least 30 minutes of CIJ every day, but it was harder than I expected. I only immersed for one to two hours of CIJ content per week for most weeks (if any at all). The complete beginner videos were a real slog, and as soon as I hit play, I found myself getting distracted and wanting to do something else. I suddenly wanted to tidy up my room, or do an admin task I’d been putting off for weeks. I had to force myself to sit down and actually watch.
 
 To be honest, I also quickly lost motivation. I was excited in September, still stuck in the honeymoon phase, but my enthusiasm quickly dwindled, and by December, I wanted to quit again. But I didn’t; I somehow forced myself to show up when I could.
 
@@ -159,7 +159,7 @@ Who cares?
 
 There’s too much information online, and people claiming that this or that method is the best. It can get overwhelming pretty fast. At the end of the day, I believe it all boils down to what you can do consistently. What’s the point of an “effective” method when it makes you dread—or worse, detest—learning the language to begin with?
 
-For example, I finally accepted that Anki and the Genki books (or any structured textbooks, for that matter) no longer have a place in my routine. I’ve tried them far too many times already, and they always ended up demotivating me and derailing my learning journey. (As I’m typing this, I can just about imagine the Redditors at [r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/) coming for me.)
+For example, I finally accepted that Anki and the Genki books (or any structured textbooks, for that matter) no longer have a place in my routine. I’ve tried them far too many times already, and they always end up demotivating me and derailing my learning journey. (As I’m typing this, I can just about imagine the Redditors at [r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/) coming for me.)
 
 As much as I love stationery and writing by hand, taking notes doesn’t work for me. I also learned that pure immersion isn’t for me either. And while we’re on the topic, let me just say that I’m _sick_ of people who just say, “Just immerse bro,” as if there’s just one way to learn a language, and I hate it when some of them even go so far as to mock or dismiss those with a different approach. I know the value of immersion, but there’s nothing sacrilegious about doing something else on top of it, such as, say, explicit grammar study, in-person classes, or whatever floats your boat. My point is, things aren’t always black and white when it comes to language learning, and it grates me when people act or believe otherwise.
 

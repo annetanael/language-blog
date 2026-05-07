@@ -23,14 +23,14 @@ I want to fill my cup with meaningful activities and memories, _not_ things. I a
 
 As a homebody, this also means literally going out of my comfort zone and having little adventures outside. It wasn’t such a dramatic shift; after all, I’ve always loved going on solo dates, but I knew that I didn’t do it as often as I should.
 
-So, as soon as 2026 arrived, I vowed to myself that I’ll be a bit more adventurous this time around. We’re almost halfway into the year, and I’m proud to say that things have been going swimmingly.
+So, as soon as 2026 arrived, I vowed to myself that I would be a bit more adventurous this time around. We’re almost halfway into the year, and I’m proud to say that things have been going swimmingly.
 
 The past few weeks have been a delight, and I wanted to take a moment to reflect on what life has held for me lately.
 
 ## What I’ve been up to
 
 :::gallery
-![I love the surprised pikachu face.](../_images/life-lately-01/01-life_lately-3.jpg)
+![I love the surprised Pikachu face.](../_images/life-lately-01/01-life_lately-3.jpg)
 ![Oh, to be a cat in my next life...](../_images/life-lately-01/01-life_lately-4.jpg)
 ![You can never go wrong with good ol’ chocolate sorbetes.](../_images/life-lately-01/01-life_lately-5.jpg)
 ![I got an Earl Grey matcha at a matcha pop-up event.](../_images/life-lately-01/01-life_lately-6.jpg)
@@ -92,7 +92,7 @@ While I don’t actively play Stardew Valley anymore, this game still holds a sp
 
 ![Día del libro or “Book Day” is an annual cultural festival organized by Instituto Cervantes. By the time I left (around half-past nine), the concert on stage was already in full swing.](../_images/life-lately-01/01-life_lately-14.jpg)
 
-I’ve always wanted to go, but unfortunately, it fell on the same date as the SDV concert. I arrived at Ayala Triangle quite late and missed most of the events. I still managed to snag a few books in Spanish, though! It was strange to be surrounded by so many foreigners at once and to actually understand everything they were saying.
+I’ve always wanted to go, but unfortunately, it fell on the same date as the SDV concert. I arrived at Ayala Triangle quite late and missed most of the events. I still managed to snag a few Spanish books, though! It was strange to be surrounded by so many foreigners at once and to actually understand everything they were saying.
 
 ### Cafés
 
@@ -109,13 +109,13 @@ Iced oat latte is my go-to order, but sometimes I go for an americano, caramel m
 ## Other musings
 * I’ve been thinking about cycling a lot. I haven’t ridden a bicycle in more than a decade, and I actually told myself I would never ride one again after I nearly got into so many accidents during my “adventurous girl era” way back in college, but here I am. My dad and brothers are avid cyclists, so they’re all enabling me to get back into it. I’m just a girl, and I’m this close to giving in.
 * I thought about labeling this series as “monthly archive”[^4] instead of “life lately,” but I decided against it because I don’t want the (self-imposed) expectation to do this every month.
-* A part of me feels that this kind of entry should live in a separate blog. It’s somehow akin to self-indulgence, and a sinister voice is guilt-tripping me for ranting about something that has nothing to do with language learning and writing. Shouldn’t *that* be the main point of this whole thing? But who cares? This is _my_ blog, after all, and I can write whatever I damn please. The last thing I want is to start too many projects all at once and eventually burn out. Besides, no one even knows this blog exists… which brings me to my next point.
+* A part of me feels that this kind of entry should live in a separate blog. It’s somehow akin to self-indulgence, and a sinister voice is guilt-tripping me for ranting about something that has nothing to do with language learning and writing. Shouldn’t *that* be the main point of this whole thing? But then again, who cares? This is _my_ blog, after all, and I can write whatever I damn please. The last thing I want is to start too many projects all at once and eventually burn out. Besides, no one even knows this blog exists… which brings me to my next point.
 * I haven’t shared the link to this blog with anyone just yet, and less than a handful of people know I’ve been working on it, but not the specifics. I’m extremely proud of what I’ve done in such a short amount of time, and the yapper in me wants to share it with people, but something is holding me back. It feels like an imposition somehow, especially since it’s written for myself and *not* with the readers’ interests in mind. I ramble a lot, to put it mildly, and I don’t want anyone to feel obligated to wade through my word vomit. It’s silly, I know, but it is what it is.
 
 
 That’s it for now. Catch up again soon! ✨
 
-[^1]: I don’t usually order matcha outside because it’s so expensive, and I know I can make something better. For my order, for example, I could barely taste the bergamot notes. It was also a tad too sweet for me. I’ve made Earl Grey syrup before and I can proudly say that my take on Earl Grey matcha is way better.
+[^1]: I don’t usually order matcha outside because it’s so expensive, and I know I can make something better. For my order, for example, I could barely taste the bergamot notes. It was also a tad too sweet for my liking. I’ve made Earl Grey syrup before, and I can proudly say that my take on Earl Grey matcha is way better.
 [^2]: My packed lunch is typically just a variation of this: grains (preferably quinoa or red rice, mixed with ground flaxseed), protein (chicken, tofu, or tuna), veggies, topped with furikake and nori flakes. I add pickled veggies or kimchi if I’m feeling extra. For my snacks that day, I had oat cookies (from the Sunday market) and dark chocolate.
 [^3]: My favorite tracks are _feliz por ti_, _todo lo que haces para no acordarte de mi_,  _favorito_, and _nos vamos a morir_.
 [^4]: Inspired by [Catherine Campbell](https://substack.com/@junesprout/posts), one of my favorite creators. Her writing style is breathtaking, and she’s an absolute inspiration. She’s probably around my age, but I want to be like her when I grow up.
