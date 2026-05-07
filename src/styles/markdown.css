@@ -9,6 +9,34 @@
   --at-apply: 'break-words leading-normal hyphens-auto cjk:tracking-wide';
 }
 
+/* Post/About body copy font (keep headings/date/title styles untouched) */
+.post-body-font :where(
+  p:not(.no-heti):not(.no-heti *),
+  li:not(.no-heti):not(.no-heti *),
+  blockquote:not(.no-heti):not(.no-heti *),
+  figcaption:not(.no-heti):not(.no-heti *),
+  td:not(.no-heti):not(.no-heti *),
+  th:not(.no-heti):not(.no-heti *)
+) {
+  font-size: 18px;
+  line-height: 1.75;
+  font-family: 'Spectral', 'Times New Roman', Times, Georgia, ui-serif, serif;
+}
+
+@media (min-width: 1024px) {
+  .post-body-font :where(
+    p:not(.no-heti):not(.no-heti *),
+    li:not(.no-heti):not(.no-heti *),
+    blockquote:not(.no-heti):not(.no-heti *),
+    figcaption:not(.no-heti):not(.no-heti *),
+    td:not(.no-heti):not(.no-heti *),
+    th:not(.no-heti):not(.no-heti *)
+  ) {
+    font-size: 18px;
+    line-height: 1.8;
+  }
+}
+
 /* Customized Post Title */
 .heti .post-title {
   --at-apply: 'mb-2 mt-0 text-8.5 font-bold lg:text-9';
