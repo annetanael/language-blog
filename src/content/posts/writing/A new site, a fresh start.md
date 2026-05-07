@@ -79,8 +79,3 @@ When I finally sat down to work on my static site this morning, I was astonished
 But all that hard work is just the first step. I’ve already laid down the foundations. Now, it’s time to sit down and actually do the work.
 
 Let’s get writing, shall we?
-
-## Related entries
-* [The joys of mediocre writing](/posts/joys-mediocre-writing/)
-* [Perfectionism is killing my creativity](/posts/perfectionism-killing-creativity/)
-* [Selfishness redefined: choosing to write for myself](/posts/selfishness-write-myself/)

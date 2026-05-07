@@ -10,7 +10,7 @@ tags:
   - Substack
 draft: false
 pin: 0
-toc: true
+toc: false
 lang: ''
 abbrlink: 'joys-mediocre-writing'
 ---
@@ -46,7 +46,7 @@ Soon after, I revisited my latest post on video games, scanned it several times,
 
 ---
 
-My old self would have catapulted into a spiral of self-hatred. I probably would have taken a break from writing or deleted the article altogether. After all, I’ve always been a perfectionist and a master of self-criticism.
+My old self would have catapulted into a spiral of self-hatred. I probably would have taken a break from writing or deleted the article altogether. After all, [I’ve always been a perfectionist](/posts/perfectionism-killing-creativity/) and a master of self-criticism.
 
 But when I reviewed my post this time, I could reflect on my inadequacies from a distance. I felt frustrated for a moment, but was mostly pensive and grateful. There’s also a touch of amusement because who would have thought things would turn out so differently in just a few years? My bitter early twenties self certainly wouldn’t.
 
@@ -71,8 +71,3 @@ A sense of purpose. Something to fuel my imagination, keeping the engines of my 
 And maybe by the end of this little project, my writing will have improved so much that this article only comes across as a silly joke. Or me seeking validation from strangers online.
 
 You never know.
-
-## Related entries
-* [Perfectionism is killing my creativity](/posts/perfectionism-killing-creativity/)
-* [I’m struggling to find my writing voice](/posts/struggling-writing-voice/)
-* [Selfishness redefined: choosing to write for myself](/posts/selfishness-write-myself/)
