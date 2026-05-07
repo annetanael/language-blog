@@ -4,7 +4,10 @@ lang: en
 
 # About
 
-![](../posts/_images/1-about.jpg)
+:::gallery
+![](../posts/_images/about-1.jpg)
+![](../posts/_images/about-2.jpg)
+:::
 
 ¡Hola! Welcome to my little corner of the internet. ✨ 
 
@@ -12,7 +15,6 @@ This is where I document my musings on language learning, writing, life, and eve
 
 ## Who I am
 I’m Anne—a content professional by day, a dreamer and lifelong learner by night.
-
 
 I love languages. I speak Tagalog, English, and a little bit of Spanish. I’ve been trying to learn Japanese for most of my life, but I never made much progress. I recently decided to _finally_ take it seriously, and I’m hoping that I’ll last more than a couple of months this time around.
 
