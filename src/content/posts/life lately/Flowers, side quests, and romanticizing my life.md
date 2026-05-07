@@ -45,7 +45,7 @@ The past few weeks have been a delight, and I wanted to take a moment to reflect
 * Lots of solo dates and food trips, including dropping by The Matcha & Hojicha Collective event at Uptown Mall[^1]
 * Trying out new restaurants with family, and just a lot of quality time with loved ones in general, including a spur-of-the-moment road trip to Tagaytay
 
-![Photo taken during the height of the recent gas hikes. It felt apocalyptic seeing the roads empty. Tagaytay traffic has always been horrendous in the past few years, after all.](../_images/life-lately-01/01-life_lately-11.jpg)
+![Photo taken during the height of the recent gas hikes. The empty roads were apocalyptic somehow, especially given how horrendous Tagaytay traffic has been in the past few years.](../_images/life-lately-01/01-life_lately-11.jpg)
 
 
 ## Simple joys
@@ -77,14 +77,14 @@ Here’s the album I’ve been obsessed with (I implore you to *please* listen t
 
 ## Little adventures
 
-### Stardew Valley Symphony of Seasons concert
+### Stardew Valley concert
 
 :::gallery
 ![](../_images/life-lately-01/01-life_lately-12.jpg)
 ![](../_images/life-lately-01/01-life_lately-13.jpg)
 :::
 
-After months of waiting, I finally went to the Stardew Valley Symphony of Seasons concert! It was such a beautiful experience. When the first music started, goosebumps immediately dotted my arms, and I felt a strong urge to cry (but I somehow managed to stop myself because I didn’t want to ruin my eye makeup).
+After months of waiting, I finally went to the Stardew Valley Festival of Seasons concert! It was such a beautiful experience. When the first music started, goosebumps immediately dotted my arms, and I felt a strong urge to cry (but I somehow managed to stop myself because I didn’t want to ruin my eye makeup).
 
 While I don’t actively play Stardew Valley anymore, this game still holds a special place in my heart, and the music will always make me nostalgic. I never thought I’d ever get to hear the soundtrack performed live!
 
