@@ -118,7 +118,7 @@ It all goes downhill from there.
 Sometimes, I try too hard to be creative, and my prose comes out flowery and convoluted. Other times, my writing is so simplistic that I know I won’t be able to hold a reader’s attention for more than a few seconds.
 
 
-Meanwhile, when I work on other writing activities, like composing yet another love letter to my boyfriend, journaling, or sharing a random personal story on Reddit, the final text is compelling and effectively showcases my writing skills.
+Meanwhile, when I work on other writing activities, like composing yet another love letter, journaling, or sharing a random personal story on Reddit, the final text is compelling and effectively showcases my writing skills.
 
 
 Over the past few weeks, I’ve been revisiting my published Substack articles, and it was excruciating. I felt appalled and amazed at equal proportions, my mind oscillating between “Did I genuinely  write those?” and “How did I manage to publish five articles?”
