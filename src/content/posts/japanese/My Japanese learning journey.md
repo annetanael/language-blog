@@ -74,7 +74,7 @@ But overall, my Japanese studies during this period were intermittent, and I did
 I learned greetings, basic phrases, and everyday sentences, but it was mostly rote memorization. My understanding of grammar was rudimentary at best—stuff like basic sentence structure, word order, です, and particles. I also finally learned how to read and write ひらがな and カタカナ. Lastly, my passive vocabulary increased as I watched more anime and listened to more Japanese songs.
 
 ### 2013
-I enrolled in a 30-hour in-person basic Japanese class over the summer. We breezed through Genki I, but I was already familiar with most of the grammatical concepts and structures discussed in the book. I finally learned some kanji and tried speaking in Japanese for the first time.
+I enrolled in a 30-hour in-person basic Japanese class over the summer. We breezed through Genki I, but I was already familiar with most of the grammatical concepts and structures covered in the book. I finally learned some kanji and tried speaking in Japanese for the first time.
 
 Once the class was over, I got obsessed with writing in Japanese. I kept a simple handwritten journal in kana and the few kanji I knew. I also jotted down the lyrics of anime songs. I most likely skimmed through my notes and remember checking out [Tae Kim’s Grammar Guide](https://guidetojapanese.org/learn/), a resource our sensei recommended.
 
@@ -111,7 +111,7 @@ Here’s what I tried (in no particular order):
 
 Take note that I only included the resources I used for more than a couple of weeks. I’m sure I tried more, but they just didn’t make the cut. Off the top of my head, I remember trying out Bunpo, Clozemaster, Duolingo, Memrise, and MochiKanji.
 
-I discovered comprehensible input during this time and started consuming beginner-level content on Spotify and YouTube. I’ll write about my favorite podcasts and channels in a separate post.
+I discovered comprehensible input sometime in 2021, but I didn’t start consuming beginner-level Japanese content until a couple of years later. I’ll write about my favorite podcasts and channels in a separate post.
 
 ### September 2025
 I don’t know what came over me, but I decided to experiment and try a new approach once again. I used [Dreaming Spanish](https://www.dreaming.com/spanish) a lot when I first started learning Spanish, and I thought, _Why not do the same with Japanese?_
