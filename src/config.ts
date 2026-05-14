@@ -102,8 +102,8 @@ export const themeConfig: ThemeConfig = {
         url: '/atom.xml', // or /rss.xml
       },
       {
-        name: 'Substack',
-        url: 'https://substack.com/@annemuses',
+        name: 'Field notes',
+        url: 'https://www.fairydiaries.com/',
       },
       {
         name: 'Email',
