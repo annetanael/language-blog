@@ -68,7 +68,7 @@ To get started, navigate to any of the site’s main categories:
 
 Here are additional tags for my ongoing series:
 * [Spanish media diaries](/tags/Spanish%20media%20diaries/)
-* [Spanish weekly round-up](/tags/Spanish%20weekly%20round-up/)
+* [Spanish weekly roundup](/tags/Spanish%20weekly%20roundup/)
 * [Japanese progress updates](/tags/Japanese%20progress%20updates/)
 * [Language wins](/tags/Language%20wins/)
 * [Life lately](/tags/Life%20lately/)
