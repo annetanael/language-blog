@@ -6,7 +6,7 @@
 
 /* Global Styles */
 .heti {
-  --at-apply: 'break-words leading-normal hyphens-auto cjk:tracking-wide';
+  --at-apply: 'break-words leading-normal hyphens-manual cjk:tracking-wide';
 }
 
 /* Post/About body copy font (keep headings/date/title styles untouched) */
