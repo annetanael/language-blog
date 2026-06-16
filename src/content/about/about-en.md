@@ -9,7 +9,7 @@ lang: en
 ![](../posts/_images/about-2.jpg)
 :::
 
-¡Hola! Welcome to my little corner of the internet. ✨ 
+¡Hola! Welcome to my little corner of the internet. ✨
 
 This is where I document my musings on language learning, writing, life, and everything else in between.
 
@@ -18,32 +18,16 @@ I’m Anne—a content professional by day, a dreamer and lifelong learner by ni
 
 I love languages. I speak Tagalog, English, and a little bit of Spanish. I’ve been trying to learn Japanese for most of my life, but I never made much progress. I recently decided to _finally_ take it seriously, and I’m hoping that I’ll last more than a couple of months this time around.
 
-
 In the past, I’ve also dabbled in French, Italian, German, Swedish, Russian, Polish, Korean, and Chinese.
-
-
-Some of my other hobbies and interests include:
-* reading
-* animé and manga
-* videogames
-* fitness (walking, running, and yoga)
-* coffee, tea, and matcha
-* all things cozy and aesthetic
-* ...and so much more!
-
 
 ## Why I started this blog
 Language learning is, and always will be, one of my favorite rabbit holes. I don’t talk about it enough! I needed a safe space to dump my notes, scattered thoughts, and reflections—so here I am.
 
-
 I opted for a blog because writing is my most comfortable form of self-expression. I’ve also neglected it long enough, and I figured it was high time I got back to it. In other words, this is my latest attempt at establishing a writing practice.
-
 
 I’ve already abandoned an embarrassing number of writing projects, and I can’t promise that this won’t be on the back burner after a few months, but I’m not giving up just yet. I love rambling and having side projects far too much to stop.
 
-
 And who knows? Maybe this is _the_ project that will finally get me writing consistently.
-
 
 ## What to expect
 * **Walls of text on language learning and writing.** You’ve been warned.
@@ -56,27 +40,31 @@ And who knows? Maybe this is _the_ project that will finally get me writing cons
 * **Beautiful, eloquent writing.** My entries will meander a lot—they’re essentially a haphazard attempt to dissect my brain and translate my mangled thoughts onto paper. While I’ll do my best to polish my writing (it’s the editor and perfectionist in me), I know it’ll still be somewhat rough around the edges. It won’t be creative writing. Sometimes I’ll make an effort to be more creative, but it won’t be the norm. I like to think of this blog as a glorified journal.
 * **Complete, fully comprehensible entries.** I’m writing mainly for myself. So if something doesn’t make sense, like there’s missing context or whatnot, it’s because I’m literally _not_ writing with the reader in mind.
 
-
 ## How to browse this site
+This section maps the entire site so you can find what interests you.
+
 I’ve added tags to each post for easy navigation. Go to [Tags](/tags/) for the complete list.
 
-To get started, navigate to any of the site’s main categories:
+To get started, select any of the site’s main categories:
 * [Spanish](/tags/Spanish/)
 * [Japanese](/tags/Japanese/)
 * [Language learning](/tags/Language%20learning/)
 * [Writing](/tags/Writing/)
 
 Here are additional tags for my ongoing series:
-* [Spanish media diaries](/tags/Spanish%20media%20diaries/)
-* [Spanish weekly roundup](/tags/Spanish%20weekly%20roundup/)
-* [Japanese progress updates](/tags/Japanese%20progress%20updates/)
-* [Language wins](/tags/Language%20wins/)
-* [Life lately](/tags/Life%20lately/)
+
+- **Language challenges** – Random challenges to diversify my routine and make things more exciting ([Japanese](/tags/Japanese%20language%20challenges/) · [Spanish](/tags/Spanish%20language%20challenges/))
+- **[Language wins](/tags/Language%20wins/)** – Because all wins should be celebrated, no matter how big or small
+- **Media diaries** – Books, podcasts, articles, shows, and other media consumed in my target languages ([Japanese](/tags/Japanese%20media%20diaries/) · [Spanish](/tags/Spanish%20media%20diaries/))
+- **Weekly roundup** – Occasional weekly updates on my language studies ([Japanese](/tags/Japanese%20weekly%20roundup/) · [Spanish](/tags/Spanish%20weekly%20roundup/))
+- **[Life lately](/tags/Life%20lately/)** – Sporadic lifestyle posts on what I’ve been up to
 
 I’ve also added relevant writings from other sites and platforms (including [Substack](/tags/Substack/) and [Medium](/tags/Medium/)). You’ll find the articles on [Archive](/tags/Archive/), and they’ll also appear in the main categories they belong to. This is still a work-in-progress.
 
+Lastly, while this site is primarily written in English, some entries will be in Spanish. Click [En español](/tags/En%20español/) to check them out.
+
 ## Let’s chat
-Have a question or just want to say hi? Feel free to reach out to me on [Reddit](https://www.reddit.com/user/annemuses/) or by [email](anne.mensajes@gmail.com). 
+Have a question or just want to say hi? Feel free to reach out to me on [Reddit](https://www.reddit.com/user/annemuses/) or by [email](mailto:anne.mensajes@gmail.com).
 
 You can also DM me on Discord at `anne_idiomas`.
 
