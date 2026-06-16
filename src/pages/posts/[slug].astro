@@ -70,7 +70,10 @@ const { Content, headings, remarkPluginFrontmatter } = await render(post)
     <!-- Date -->
     <div
       id="post-date"
-      class="mb-17.2 block c-[#666663] dark:c-primary"
+      class:list={[
+        'block c-[#666663] dark:c-primary',
+        post.data.description ? 'mb-4 lg:mb-17.2' : 'mb-17.2',
+      ]}
       transition:name={`time-${postSlug}`}
       data-disable-theme-toggle-transition
     >
@@ -80,6 +83,13 @@ const { Content, headings, remarkPluginFrontmatter } = await render(post)
         minutes={remarkPluginFrontmatter.minutes}
       />
     </div>
+
+    <!-- Mobile-only post description (hidden on desktop, where the home list shows it) -->
+    {post.data.description && (
+      <p class="mb-17.2 indent-0 text-4 c-secondary/75 font-['Spectral'] italic lg:hidden dark:c-secondary/85">
+        {post.data.description}
+      </p>
+    )}
 
     <!-- TOC -->
     {post.data.toc && <TOC headings={headings} />}
