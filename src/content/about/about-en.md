@@ -54,7 +54,7 @@ To get started, select any of the site’s main categories:
 Here are additional tags for my ongoing series:
 
 - **Language challenges** – Random challenges to change up my routine ([Japanese](/tags/Japanese%20language%20challenges/) · [Spanish](/tags/Spanish%20language%20challenges/))
-- **[Language wins](/tags/Language%20wins/)** – Because all wins should be celebrated, no matter how big or small
+- **Language wins** – Because all wins should be celebrated, no matter how big or small ([Japanese](/tags/Japanese%20language%20wins/) · [Spanish](/tags/Spanish%20language%20wins/))
 - **Media diaries** – Books, podcasts, articles, shows, and other media consumed in my target languages ([Japanese](/tags/Japanese%20media%20diaries/) · [Spanish](/tags/Spanish%20media%20diaries/))
 - **Weekly roundup** – Occasional weekly updates on my language studies ([Japanese](/tags/Japanese%20weekly%20roundup/) · [Spanish](/tags/Spanish%20weekly%20roundup/))
 - **[Life lately](/tags/Life%20lately/)** – Sporadic lifestyle posts on what I’ve been up to
