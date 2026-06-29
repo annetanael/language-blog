@@ -95,6 +95,6 @@ Anyway, that’s it for now! I’ll see you in 25 days.
 
 [^1]: You can do the 60 minutes of study _on top_ of the other tasks or you can sum up your time in the other tasks so you get a total of 60 minutes.
 [^2]: For reading, I’m using a mix of [CIJ](https://cijapanese.com/) (Comprehensible Japanese), [Todaii](https://japanese.todaiinews.com/en), [Yomu Yomu](https://yomuyomu.app/), and [HelloStory](https://play.google.com/store/apps/details?id=com.hellostory&hl=en).
-[^3]: [Renshuu](https://app.renshuu.org/) and [WaniKani](https://www.wanikani.com/) are for grammar and vocabulary. Reading is self-explanatory (check the previous note). YouTube and CIJ are for watching and active listening. I also use Podcast Republic to listen to podcasts. Lastly, immersion can be watching an anime or series, listening to Japanese music, or just listening passively. I don’t track my hours for the “immersion” tag.
+[^3]: [Renshuu](https://app.renshuu.org/) and [WaniKani](https://www.wanikani.com/) are for grammar and vocabulary. Reading is self-explanatory (check the previous note). YouTube and CIJ are for watching and active listening. I also use Podcast Republic to listen to podcasts. Lastly, immersion can be watching an anime or series, listening to Japanese music, or just listening to something passively. I don’t track my hours for the “immersion” tag.
 [^4]: I’ll update the list with the links as I publish my progress update posts.
 [^5]: I’m also allowing myself to quit if the challenge isn’t working for me.
