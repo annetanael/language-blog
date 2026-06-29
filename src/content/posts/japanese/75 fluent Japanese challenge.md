@@ -37,13 +37,13 @@ Do check out these videos for more context on the challenge.
 The challenge is pretty straightforward. It consists of 6 daily tasks you need to do for 75 days: 
 1. 60 minutes of study[^1]
 2. Read 5 pages
-3. 1 podcast episode or YouTube video
+3. One podcast episode or YouTube video
 4. Journal
 5. 5 minutes of speaking
 6. Track your study
 7. Immerse yourself as much as possible
 
-> [!TIP]
+> [!NOTE]
 > Logan also created the [75-Fluent tracker](https://75-fluent.com/) to streamline the tracking process. I personally won’t be using it because I want some flexibility (the daily tasks on her tracker can’t be edited), but I think it’s a pretty cool resource if you’re doing the challenge as is!
 
 ## Revised rules of 75 fluent
@@ -53,7 +53,7 @@ So, I decided to tweak the rules to make it work for my needs:
 
 1. 60 minutes of study
 2. <span style="color: oklch(0.58 0.09 150); font-weight: 700;">Read for 10 minutes</span>
-3. 1 podcast episode or YouTube video
+3. One podcast episode or YouTube video
 4. <span style="color: oklch(0.58 0.09 150); font-weight: 700;">Renshuu</span>
 5. <span style="color: oklch(0.58 0.09 150); font-weight: 700;">WaniKani</span>
 6. Track your study
@@ -93,8 +93,10 @@ I’m giving myself a lot of flexibility to fail, start over, or update the chal
 
 Anyway, that’s it for now! I’ll see you in 25 days.
 
-[^1]: You can do the 60 minutes of study _on top_ of the other tasks or you can sum up your time in the other tasks so you get a total of 60 minutes.
+[^1]: This can include or exclude the time spent on the other tasks, depending on how much time or energy you have.
 [^2]: For reading, I’m using a mix of [CIJ](https://cijapanese.com/) (Comprehensible Japanese), [Todaii](https://japanese.todaiinews.com/en), [Yomu Yomu](https://yomuyomu.app/), and [HelloStory](https://play.google.com/store/apps/details?id=com.hellostory&hl=en).
 [^3]: [Renshuu](https://app.renshuu.org/) and [WaniKani](https://www.wanikani.com/) are for grammar and vocabulary. Reading is self-explanatory (check the previous note). YouTube and CIJ are for watching and active listening. I also use Podcast Republic to listen to podcasts. Lastly, immersion can be watching an anime or series, listening to Japanese music, or just listening to something passively. I don’t track my hours for the “immersion” tag.
 [^4]: I’ll update the list with the links as I publish my progress update posts.
 [^5]: I’m also allowing myself to quit if the challenge isn’t working for me.
+
+you can include your daily tasks to the 60 mins
