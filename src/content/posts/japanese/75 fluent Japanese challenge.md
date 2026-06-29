@@ -19,31 +19,23 @@ It’s a Monday, and I’m not dreading it for a change. Instead, it feels like 
 More importantly, today is officially the start of my 75 fluent challenge for Japanese.
 
 I’ve heard of the 75 hard before, but I never paid attention to it. After all, it sounded a bit too intense and daunting for me to ever attempt it. But a week ago, I came across an interesting video from Jo, one of my go-to language learning YouTubers:
-</br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xj1gaDXNvm8?si=wwbAS_vWPWDUL7AR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</br>
+::youtube{id=Xj1gaDXNvm8}
 
 75 fluent is essentially the 75 hard challenge, but adapted for language learning. It’s created by another content creator named Logan. Here’s the video where she delved into the specifics:
-</br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x2vK4fWDurc?si=2QiT1pejHrxNpYHm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</br>
+::youtube{id=x2vK4fWDurc}
 
 Do check out these videos for more context on the challenge.
 
 ## Rules of 75 fluent
-The challenge is pretty straightforward and has 6 rules: 
+The challenge is pretty straightforward. It consists of 6 daily tasks you need to do for 75 days: 
 1. 60-minute language study
 2. Read 5 pages
 3. Watch something
 4. Journal
 5. 5 minutes of speaking
 6. Track your study
-
-As the challenge name suggests, you need to do every single one of those activities for 75 days.
 
 ## Revised rules of 75 fluent
 The original rules of the challenge don’t work for me because I’m not yet producing anything in Japanese. I’m still in the early stages of my study—consuming content, building my vocabulary, and familiarizing myself with grammar points.
@@ -71,7 +63,7 @@ I’m using an app called [Striving](https://play.google.com/store/apps/details?
 ![The app provides a summary of your study time across different parameters.](../_images/75-fluent-01/75-fluent-2.jpg)
 :::
 
-Meanwhile, I’m using [Loop Habit Tracker](https://loophabits.org/) to track the activities I managed to do in a day.
+Meanwhile, I’m using [Loop Habit Tracker](https://loophabits.org/) to track the tasks I managed to do in a day.
 
 ![I use this app to tick off what I did for a particular day. It also provides detailed stats.](../_images/75-fluent-01/75-fluent-3.jpg)
 
