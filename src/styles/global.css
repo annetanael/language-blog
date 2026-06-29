@@ -89,3 +89,21 @@ html.dark .code-copy-button.copied {
 .code-copy-button.copied .icon-check {
   --at-apply: 'op-100';
 }
+
+/* Back to Top Button >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+.back-to-top {
+  --at-apply: 'fixed z-99 grid aspect-square w-11 cursor-pointer place-items-center rounded-full uno-round-border lg:hidden';
+  --at-apply: 'border-secondary/15 bg-background c-secondary/70 invisible translate-y-2 op-0 hover:(border-primary/15 c-primary)';
+  right: min(7.25vw, 3.731rem);
+  bottom: max(1.5rem, env(safe-area-inset-bottom, 0px));
+  transition: opacity 0.2s ease-out, transform 0.2s ease-out, visibility 0.2s ease-out, color 0.15s ease-out, border-color 0.15s ease-out;
+}
+.back-to-top.is-visible {
+  --at-apply: 'visible translate-y-0 op-100';
+}
+.back-to-top:active {
+  --at-apply: 'scale-90';
+}
+.back-to-top svg {
+  --at-apply: 'aspect-square w-1/2';
+}

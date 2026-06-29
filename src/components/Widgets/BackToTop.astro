@@ -1,0 +1,70 @@
+---
+import TopIcon from '@/assets/icons/top-icon.svg'
+---
+
+<button
+  id="back-to-top"
+  class="back-to-top"
+  type="button"
+  aria-label="Back to top"
+>
+  <TopIcon
+    aria-hidden="true"
+    fill="currentColor"
+  />
+</button>
+
+<!-- Back to Top Script >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+<script>
+const SCROLL_THRESHOLD = 300
+
+let ticking = false
+
+// Toggle the button based on the current scroll position
+function updateVisibility() {
+  ticking = false
+
+  const button = document.getElementById('back-to-top')
+  if (!button) {
+    return
+  }
+
+  button.classList.toggle('is-visible', window.scrollY > SCROLL_THRESHOLD)
+}
+
+// Throttle scroll events with requestAnimationFrame
+function handleScroll() {
+  if (ticking) {
+    return
+  }
+
+  ticking = true
+  window.requestAnimationFrame(updateVisibility)
+}
+
+function prefersReducedMotion() {
+  return window.matchMedia('(prefers-reduced-motion: reduce)').matches
+}
+
+// Scroll back to the top of the page on click
+function handleBackToTopClick(e: MouseEvent) {
+  if (!(e.target instanceof Element)) {
+    return
+  }
+
+  if (!e.target.closest('#back-to-top')) {
+    return
+  }
+
+  window.scrollTo({
+    top: 0,
+    behavior: prefersReducedMotion() ? 'auto' : 'smooth',
+  })
+}
+
+window.addEventListener('scroll', handleScroll, { passive: true })
+document.addEventListener('click', handleBackToTopClick)
+// Re-sync after client-side navigation (scroll resets to top)
+document.addEventListener('astro:page-load', updateVisibility)
+updateVisibility()
+</script>

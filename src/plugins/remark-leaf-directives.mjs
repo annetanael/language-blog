@@ -53,9 +53,13 @@ const embedHandlers = {
       return false
     }
 
+    const caption = node.attributes?.caption ?? ''
+    const figcaption = caption ? `<figcaption>${caption}</figcaption>` : ''
+
     return `
     <figure>
       <lite-youtube videoid="${videoId}"></lite-youtube>
+      ${figcaption}
     </figure>
     `
   },
