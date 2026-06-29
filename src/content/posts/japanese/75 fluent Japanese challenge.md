@@ -1,7 +1,7 @@
 ---
 title: 75 fluent Japanese challenge
 published: 2026-06-29T04:15:35.073Z
-description: 'An overview of what this challenge is about, and how I’m approaching it.'
+description: 'An overview of the challenge, and how I’m approaching it.'
 updated: ''
 tags:
   - Japanese
@@ -38,21 +38,19 @@ The challenge is pretty straightforward. It consists of 6 daily tasks you need t
 6. Track your study
 
 ## Revised rules of 75 fluent
-The original rules of the challenge don’t work for me because I’m not yet producing anything in Japanese. I’m still in the early stages of my study—consuming content, building my vocabulary, and familiarizing myself with grammar points.
+The original rules of the challenge don’t work for me because I’m not producing anything in Japanese yet. I’m still in the early stages of my study—consuming content, building my vocabulary, and familiarizing myself with grammar points.
 
 So, I decided to tweak the rules to make it work for my needs:
 
 1. 60-minute language study
 2. <span style="color: oklch(0.58 0.09 150); font-weight: 700;">Read for 10 minutes</span>
 3. Watch something
-4. <span style="color: oklch(0.58 0.09 150); font-weight: 700;">Listen to something for 15 mins</span>
-5. <span style="color: oklch(0.58 0.09 150); font-weight: 700;">Renshuu</span>
-6. <span style="color: oklch(0.58 0.09 150); font-weight: 700;">WaniKani</span>
-7. Track your study
+4. <span style="color: oklch(0.58 0.09 150); font-weight: 700;">Renshuu</span>
+5. <span style="color: oklch(0.58 0.09 150); font-weight: 700;">WaniKani</span>
+6. Track your study
 
 ### Changes I made
-- I’m not reading books yet, so I updated “Read 5 pages” to “Read for 10 minutes”. It makes perfect sense for my situation since I use various apps to read basic stuff in Japanese.
-- I added “Listen to something for 15 mins” just because I’m trying to listen to as much Japanese as possible, be it actively or passively. The indicated time is the bare minimum; I’ll likely exceed the 15 minutes most days.
+- I’m not ready to read books yet, so I updated “Read 5 pages” to “Read for 10 minutes”. It makes perfect sense for my situation since I use various apps to read stuff in Japanese.
 - I added “Renshuu” and “WaniKani” because they’re currently my main resources for active study. But since I took a break from Japanese for several weeks, my backlog is still… massive. So, right now, my priority is to just catch up on my reviews. I don’t want to be too strict with myself on how many words or how much time I should study per day.
 
 ## How I’m tracking my studies
@@ -65,7 +63,7 @@ I’m using an app called [Striving](https://play.google.com/store/apps/details?
 
 Meanwhile, I’m using [Loop Habit Tracker](https://loophabits.org/) to track the tasks I managed to do in a day.
 
-![I use this app to tick off what I did for a particular day. It also provides detailed stats.](../_images/75-fluent-01/75-fluent-3.jpg)
+![I use this app to tick off the daily tasks I did for a particular day. It also provides detailed stats, which you’ll see later on.](../_images/75-fluent-01/75-fluent-3.jpg)
 
 Both apps have premium options, but the free versions are good enough for my use case.
 
