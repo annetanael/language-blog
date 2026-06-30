@@ -34,7 +34,7 @@ Here’s another useful, more updated video:
 Do check out these videos for more context on the challenge.
 
 ## Rules of 75 fluent
-The challenge is pretty straightforward. It consists of 6 daily tasks you need to do for 75 days: 
+The challenge is pretty straightforward. It consists of 7 daily tasks you need to do for 75 days: 
 1. 60 minutes of study[^1]
 2. Read 5 pages
 3. One podcast episode or YouTube video
