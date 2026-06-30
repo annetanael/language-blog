@@ -93,10 +93,8 @@ I’m giving myself a lot of flexibility to fail, start over, or update the chal
 
 Anyway, that’s it for now! I’ll see you in 25 days.
 
-[^1]: This can include or exclude the time spent on the other tasks, depending on how much time or energy you have.
+[^1]: 60 minutes can include or exclude the time spent on the remaining 6 tasks, depending on how much time or energy you have.
 [^2]: For reading, I’m using a mix of [CIJ](https://cijapanese.com/) (Comprehensible Japanese), [Todaii](https://japanese.todaiinews.com/en), [Yomu Yomu](https://yomuyomu.app/), and [HelloStory](https://play.google.com/store/apps/details?id=com.hellostory&hl=en).
 [^3]: [Renshuu](https://app.renshuu.org/) and [WaniKani](https://www.wanikani.com/) are for grammar and vocabulary. Reading is self-explanatory (check the previous note). YouTube and CIJ are for watching and active listening. I also use Podcast Republic to listen to podcasts. Lastly, immersion can be watching an anime or series, listening to Japanese music, or just listening to something passively. I don’t track my hours for the “immersion” tag.
 [^4]: I’ll update the list with the links as I publish my progress update posts.
 [^5]: I’m also allowing myself to quit if the challenge isn’t working for me.
-
-you can include your daily tasks to the 60 mins
