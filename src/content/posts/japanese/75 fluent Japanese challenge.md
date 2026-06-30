@@ -79,9 +79,9 @@ Both apps have premium options, but the free versions are good enough for my use
 
 ## What to expect
 I plan to share progress updates every 25 days for accountability:[^4]
-- __25th day update:__ July 24, 2026 (Friday) 
-- __50th day update:__ August 18, 2026 (Tuesday)
-- __75th day update:__ September 11, 2026 (Friday)
+- __Day 25:__ July 24, 2026 (Friday) 
+- __Day 50:__ August 18, 2026 (Tuesday)
+- __Day 75:__ September 11, 2026 (Friday)
 
 I’ll share screenshots of the data from my apps and reflect on my experience so far. I _might_ also post a write-up at the end of the challenge if I feel like it, but we’ll see how it goes first.
 
